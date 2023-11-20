@@ -1,4 +1,4 @@
-package ru.netology.work7.services;
+package ru.netology.statistic;
 
 public class StatisticsService{
         public long findMax(long[] incomes) {
